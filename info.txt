@@ -1,0 +1,33 @@
+Ciao ragazzi,
+esercizio di oggi: **Bootstrap Grid Layout**
+nome repo: htmlcss-bootstrap-layout
+Consegna
+Riprodurre un layout con griglia responsive utilizzando Bootstrap 5! Aiutatevi con gli screenshot in allegato e le classi di Bootstrap per riprodurre il giusto layout a seconda dello spazio a 
+disposizione sui diversi dispositivi.
+
+
+Bonus
+Provate a creare la griglia a 5 colonne e a utilizzare la griglia annidata :occhiolino:
+Sperimentate anche un po con le classi utility per centrare o distribuire  le colonne :stella2:
+Buon Lavoro e buon divertimento!
+
+
+
+NB in bootstrap utilizzare sempre row all'interno di un container perché al di fuori hanno margin negative e sono fuori del viewport 
+
+
+leggere sul sito di bootstrap su  GRID How It Works su tutto quello  che riguarda il LAYOUT
+
+
+NB : NON SI POSSONO CAMBIARE MARGIN E PADDING IN ORIZZONTALE altrimenti le tabelle si rompono
+
+per usare lo spazio tra colonne usare gutter (gx da 0 a 5) il; valore viene inserito 50% a destra e 50% a sinistra in
+pratica viene inserito del padding
+ 
+NB: le colonne devono essere dentro  le row
+
+
+utilizzare solo classi bootstrap per svolgere esercizio
+
+
+
